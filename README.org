@@ -1,0 +1,4 @@
+#+TITLE: simple_bc
+
+This is a simple bc-like calculator. It supports arithmetic operations and
+precedence rules via parenthesis.
